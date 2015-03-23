@@ -1,0 +1,3732 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Solidres\n"
+"POT-Creation-Date: 2015-02-18 14:15+0800\n"
+"PO-Revision-Date: 2015-02-18 14:15+0800\n"
+"Last-Translator: \n"
+"Language-Team: Solidres Team <contact@solidres.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /usr/local/projects/wordpress/wp-content/plugins/"
+"solidres\n"
+
+#: solidres/libraries/layouts/asset/roomtypeform.php:25
+#: solidres/admin/roomtypes/layouts/general_infomation.php:53
+msgid "Adult"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/roomtypeform.php:49
+#: solidres/libraries/layouts/asset/roomtypeform.php:65
+#: solidres/templates/single-asset/default.php:47
+msgid "Child"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/roomtypeform.php:108
+msgid "Select your smoking options"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/roomtypeform.php:109
+msgid "Non smoking room"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/roomtypeform.php:110
+msgid "Smoking room"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/roomtypeform.php:121
+#: solidres/libraries/layouts/asset/confirmationform.php:71
+#: solidres/admin/roomtypes/layouts/room.php:17
+msgid "Room"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/roomtypeform.php:156
+msgid "Age of child(ren) at checkout"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/roomtypeform.php:171
+msgid "Guest name"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/roomtypeform.php:243
+#: solidres/libraries/layouts/asset/guestform.php:37
+#: solidres/libraries/layouts/asset/guestform.php:440
+#: solidres/templates/single-asset/default.php:44
+#: solidres/templates/single-asset/default-roomtype.php:145
+msgid "Next"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:30
+#: solidres/libraries/layouts/asset/guestform.php:433
+msgid "Enter your information and payment method"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:41
+#: solidres/libraries/layouts/asset/guestform.php:444
+#: solidres/libraries/layouts/asset/confirmationform.php:35
+#: solidres/libraries/layouts/asset/confirmationform.php:224
+#: solidres/templates/single-asset/default.php:45
+msgid "Back"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:51
+msgid "Guest information"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:62
+msgid "Your title (Optional)"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:72
+msgid "First name"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:82
+msgid "Middlename (Optional)"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:91
+msgid "Last name"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:101
+#: solidres/admin/reservations/layouts/customer_info.php:50
+#: solidres/admin/assets/layouts/general_infomation.php:59
+msgid "Email"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:111
+msgid "Phone number"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:121
+msgid "Company (Optional)"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:130
+#: solidres/admin/reservations/layouts/customer_info.php:40
+#: solidres/admin/assets/layouts/general_infomation.php:43
+msgid "Address 1"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:140
+msgid "Address 2 (Optional)"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:149
+msgid "VAT Number (Optional)"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:163
+#: solidres/admin/reservations/layouts/customer_info.php:52
+#: solidres/admin/assets/layouts/general_infomation.php:51
+msgid "City"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:171
+msgid "Zip/Postal code (Optional)"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:178
+#: solidres/admin/states/list.php:126
+#: solidres/admin/states/layouts/general_infomation.php:24
+#: solidres/admin/reservations/layouts/customer_info.php:64
+#: solidres/admin/assets/list.php:137
+#: solidres/admin/assets/layouts/general_infomation.php:75
+#: solidres/admin/taxes/layouts/general_infomation.php:28
+msgid "Country"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:184
+msgid "State/Province (Optional)"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:189
+msgid "Note (Optional)"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:193
+msgid ""
+"Enter any information you wish to attach to your reservation. The staff "
+"cannot guarantee additional requests or comments. Please avoid the use of "
+"special characters."
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:198
+msgid ""
+"Register with us for future convenience: fast and easy booking. Please enter "
+"your desired username and password in the following fields."
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:202
+msgid "Username"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:211
+msgid "Password"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:234
+msgid "Enhance your stay"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:315
+msgid "Payment information"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:345
+#: solidres/libraries/layouts/asset/guestform.php:346
+#: solidres/admin/reservations/layouts/general_info.php:61
+#: solidres/admin/assets/layouts/payments.php:38
+msgid "Pay Later"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:372
+#: solidres/libraries/layouts/asset/guestform.php:373
+#: solidres/admin/reservations/layouts/general_info.php:64
+#: solidres/admin/assets/layouts/payments.php:41
+msgid "Bank Wire"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/guestform.php:414
+#: solidres/libraries/layouts/asset/guestform.php:415
+msgid "SR_PAYMENT_METHOD_"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/confirmationform.php:24
+#: solidres/libraries/layouts/asset/confirmationform.php:213
+msgid ""
+"Please review the your reservation details and click on the below button to "
+"finish your reservation. A confirmation email will be sent to your given "
+"email address."
+msgstr ""
+
+#: solidres/libraries/layouts/asset/confirmationform.php:31
+#: solidres/libraries/layouts/asset/confirmationform.php:219
+#: solidres/libraries/layouts/asset/confirmationform.php:220
+msgid "Finish"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/confirmationform.php:50
+msgid "Checkin:"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/confirmationform.php:57
+msgid "Checkout:"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/confirmationform.php:91
+msgid "Total room cost (exclude taxes)"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/confirmationform.php:116
+msgid "Total room tax"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/confirmationform.php:131
+msgid "Total extra cost (exclude taxes)"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/confirmationform.php:140
+msgid "Total extra tax"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/confirmationform.php:153
+msgid "Grand Total"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/confirmationform.php:175
+#: solidres/admin/reservations/layouts/general_info.php:135
+#: solidres/admin/assets/layouts/publishing.php:71
+msgid "Deposit amount"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/confirmationform.php:193
+msgid "I agree with "
+msgstr ""
+
+#: solidres/libraries/layouts/asset/confirmationform.php:195
+msgid "Booking conditions"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/confirmationform.php:195
+#: solidres/templates/single-asset/default.php:35
+msgid "and"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/confirmationform.php:197
+#: solidres/admin/assets/layouts/publishing.php:107
+msgid "Privacy Policy"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/checkinoutform.php:80
+msgid "Check-in date"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/checkinoutform.php:89
+msgid "Check-out date"
+msgstr ""
+
+#: solidres/libraries/layouts/asset/checkinoutform.php:98
+#: solidres/libraries/reservation/reservation.php:184
+#: solidres/includes/solidres_helper.php:150
+msgid "Search"
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_note_notification_customer_html.php:833
+#: solidres/libraries/layouts/emails/reservation_note_notification_customer_html_inliner.php:366
+msgid "Reservation note"
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_note_notification_customer_html.php:861
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:375
+#: solidres/libraries/layouts/emails/reservation_note_notification_customer_html_inliner.php:376
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:862
+#, php-format
+msgid "Dear %s %s %s"
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_note_notification_customer_html.php:880
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:505
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:1085
+#: solidres/libraries/layouts/emails/reservation_note_notification_customer_html_inliner.php:389
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:1081
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:503
+msgid "Connect With Us: "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_note_notification_customer_html.php:926
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:525
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:1118
+#: solidres/libraries/layouts/emails/reservation_note_notification_customer_html_inliner.php:413
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:1113
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:523
+msgid "Contact Info: "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_note_notification_customer_html.php:928
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:527
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:1121
+#: solidres/libraries/layouts/emails/reservation_note_notification_customer_html_inliner.php:415
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:1116
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:525
+msgid "Address: "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_note_notification_customer_html.php:930
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:530
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:1124
+#: solidres/libraries/layouts/emails/reservation_note_notification_customer_html_inliner.php:417
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:1119
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:528
+#: solidres/templates/single-asset/default-header.php:52
+msgid "Phone: "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_note_notification_customer_html.php:931
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:394
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:531
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:898
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:1125
+#: solidres/libraries/layouts/emails/reservation_note_notification_customer_html_inliner.php:418
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:894
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:1120
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:388
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:529
+msgid "Email: "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:364
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:836
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:833
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:358
+msgid "Reservation confirmation"
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:364
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:839
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:834
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:360
+#, php-format
+msgid "Reference ID: %s"
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:379
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:867
+#, php-format
+msgid ""
+"Thank you for your reservation at %s. Should you have any further "
+"information, please do not hesitate to contact us at any time."
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:381
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:871
+msgid "We are pleased to confirm your reservation as follows:"
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:386
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:886
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:882
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:380
+#: solidres/admin/reservations/layouts/general_info.php:95
+msgid "General info"
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:391
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:895
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:891
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:385
+msgid "Checkin: "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:392
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:896
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:892
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:386
+msgid "Checkout: "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:393
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:897
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:893
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:387
+msgid "Payment method: "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:395
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:899
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:895
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:389
+msgid "Number of nights: "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:396
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:900
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:896
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:390
+msgid "Note: "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:403
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:912
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:908
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:397
+msgid "Room cost (excl tax): "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:404
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:913
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:909
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:398
+msgid "Room cost tax: "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:405
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:914
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:910
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:399
+msgid "Extra cost (exl tax): "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:406
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:915
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:911
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:400
+msgid "Extra tax: "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:407
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:916
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:912
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:401
+msgid "Grand total: "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:408
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:917
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:913
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:402
+msgid "Deposit Amount: "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:412
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:928
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:924
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:406
+msgid "Bankwire info"
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:424
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:958
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:954
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:420
+#: solidres/admin/reservations/layouts/room_extra_info.php:20
+msgid "Room/Extra info"
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:435
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:973
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:969
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:431
+msgid "Guest fullname"
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:439
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:977
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:973
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:435
+msgid "No preferences"
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:439
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:977
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:973
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:435
+#: solidres/admin/extras/list.php:81
+#: solidres/admin/extras/layouts/general_infomation.php:57
+#: solidres/admin/extras/layouts/general_infomation.php:88
+#: solidres/admin/roomtypes/layouts/publishing.php:64
+#: solidres/admin/roomtypes/layouts/publishing.php:73
+#: solidres/admin/assets/layouts/publishing.php:40
+#: solidres/admin/assets/layouts/publishing.php:57
+#: solidres/admin/assets/layouts/publishing.php:66
+#: solidres/admin/assets/layouts/publishing.php:133
+#: solidres/admin/assets/layouts/publishing.php:142
+#: solidres/admin/assets/layouts/payments.php:52
+#: solidres/admin/assets/layouts/payments.php:61
+#: solidres/admin/assets/layouts/payments.php:80
+#: solidres/admin/assets/layouts/payments.php:89
+#: solidres/admin/coupons/list.php:82
+#: solidres/admin/coupons/layouts/general_infomation.php:48
+#: solidres/admin/options/option.php:41
+msgid "Yes"
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:439
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:977
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:973
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:435
+#: solidres/admin/extras/list.php:81
+#: solidres/admin/extras/layouts/general_infomation.php:56
+#: solidres/admin/extras/layouts/general_infomation.php:87
+#: solidres/admin/roomtypes/layouts/publishing.php:63
+#: solidres/admin/roomtypes/layouts/publishing.php:72
+#: solidres/admin/assets/layouts/publishing.php:39
+#: solidres/admin/assets/layouts/publishing.php:56
+#: solidres/admin/assets/layouts/publishing.php:65
+#: solidres/admin/assets/layouts/publishing.php:132
+#: solidres/admin/assets/layouts/publishing.php:141
+#: solidres/admin/assets/layouts/payments.php:51
+#: solidres/admin/assets/layouts/payments.php:60
+#: solidres/admin/assets/layouts/payments.php:79
+#: solidres/admin/assets/layouts/payments.php:88
+#: solidres/admin/coupons/list.php:82
+#: solidres/admin/coupons/layouts/general_infomation.php:47
+#: solidres/admin/options/option.php:45
+msgid "No"
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:442
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:981
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:977
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:438
+msgid "Adult number"
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:445
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:984
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:980
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:441
+msgid "Child number"
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:459
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:1007
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:1003
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:455
+msgid "Extras items: "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:466
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:488
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:1015
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:1054
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:1011
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:1050
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:462
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:485
+msgid "Quantity: "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:471
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:493
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:1021
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:1060
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:1017
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:1056
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:468
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:491
+msgid "Price: "
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html_inliner.php:477
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:1037
+#: solidres/libraries/layouts/emails/reservation_complete_customer_html.php:1033
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:474
+msgid "Other info"
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:869
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:373
+msgid "Hello,"
+msgstr ""
+
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html.php:874
+#: solidres/libraries/layouts/emails/reservation_complete_owner_html_inliner.php:377
+#, php-format
+msgid ""
+"A new reservation has been made, please check details below or <a href=\"%s"
+"\" target=\"_blank\">click here</a> to view it:"
+msgstr ""
+
+#: solidres/libraries/state/state.php:50
+msgid "1 state "
+msgstr ""
+
+#: solidres/libraries/state/state.php:54
+msgid " states "
+msgstr ""
+
+#: solidres/libraries/tax/tax.php:50
+msgid "1 tax "
+msgstr ""
+
+#: solidres/libraries/tax/tax.php:54
+msgid " taxes "
+msgstr ""
+
+#: solidres/libraries/country/country.php:49
+msgid "1 country "
+msgstr ""
+
+#: solidres/libraries/country/country.php:53
+msgid " countries "
+msgstr ""
+
+#: solidres/libraries/extra/extra.php:50
+msgid "1 extra "
+msgstr ""
+
+#: solidres/libraries/extra/extra.php:54
+msgid " extras "
+msgstr ""
+
+#: solidres/libraries/ajax/ajax.php:225
+msgid "Reservation notification from "
+msgstr ""
+
+#: solidres/libraries/ajax/ajax.php:319
+msgid "Ajax ERROR: could not save data."
+msgstr ""
+
+#: solidres/libraries/roomtype/roomtype.php:45
+msgid "1 room types "
+msgstr ""
+
+#: solidres/libraries/roomtype/roomtype.php:49
+msgid " rooms types "
+msgstr ""
+
+#: solidres/libraries/roomtype/roomtype.php:943
+msgid "/ room "
+msgstr ""
+
+#: solidres/libraries/roomtype/roomtype.php:945
+msgid "/ person "
+msgstr ""
+
+#: solidres/libraries/roomtype/roomtype.php:987
+msgid "Starting from"
+msgstr ""
+
+#: solidres/libraries/tariff/tariff.php:35
+msgid "Rate per room per night"
+msgstr ""
+
+#: solidres/libraries/tariff/tariff.php:36
+msgid "Rate per person per night"
+msgstr ""
+
+#: solidres/libraries/tariff/tariff.php:37
+msgid "Package per room"
+msgstr ""
+
+#: solidres/libraries/tariff/tariff.php:38
+msgid "Package per person"
+msgstr ""
+
+#: solidres/libraries/asset/asset.php:49
+msgid "1 asset "
+msgstr ""
+
+#: solidres/libraries/asset/asset.php:52
+msgid " assets "
+msgstr ""
+
+#: solidres/libraries/asset/asset.php:139
+msgid "Not available"
+msgstr ""
+
+#: solidres/libraries/asset/asset.php:277
+#: solidres/libraries/utilities/utilities.php:23
+msgid "sun"
+msgstr ""
+
+#: solidres/libraries/asset/asset.php:278
+#: solidres/libraries/utilities/utilities.php:24
+msgid "mon"
+msgstr ""
+
+#: solidres/libraries/asset/asset.php:279
+#: solidres/libraries/utilities/utilities.php:25
+msgid "tue"
+msgstr ""
+
+#: solidres/libraries/asset/asset.php:280
+#: solidres/libraries/utilities/utilities.php:26
+msgid "wed"
+msgstr ""
+
+#: solidres/libraries/asset/asset.php:281
+#: solidres/libraries/utilities/utilities.php:27
+msgid "thu"
+msgstr ""
+
+#: solidres/libraries/asset/asset.php:282
+#: solidres/libraries/utilities/utilities.php:28
+msgid "fri"
+msgstr ""
+
+#: solidres/libraries/asset/asset.php:283
+#: solidres/libraries/utilities/utilities.php:29
+msgid "sat"
+msgstr ""
+
+#: solidres/libraries/coupon/coupon.php:51
+msgid "1 coupon "
+msgstr ""
+
+#: solidres/libraries/coupon/coupon.php:55
+msgid " coupons "
+msgstr ""
+
+#: solidres/libraries/currency/currency.php:105
+msgid "1 currency "
+msgstr ""
+
+#: solidres/libraries/currency/currency.php:109
+msgid " currencies "
+msgstr ""
+
+#: solidres/libraries/category/category.php:52
+msgid "1 asset caterogy "
+msgstr ""
+
+#: solidres/libraries/category/category.php:56
+msgid " asset categories "
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:49
+msgid "1 reservation "
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:53
+msgid " reservations "
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:89
+#: solidres/admin/reservations/list.php:209
+#: solidres/admin/reservations/layouts/general_info.php:36
+msgid "Pending arrival"
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:93
+#: solidres/admin/reservations/list.php:210
+#: solidres/admin/reservations/layouts/general_info.php:39
+msgid "Checked-in"
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:97
+#: solidres/admin/reservations/list.php:211
+#: solidres/admin/reservations/layouts/general_info.php:42
+msgid "Checked-out"
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:101
+#: solidres/admin/reservations/list.php:212
+#: solidres/admin/reservations/layouts/general_info.php:45
+msgid "Closed"
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:105
+#: solidres/admin/reservations/list.php:213
+#: solidres/admin/reservations/layouts/general_info.php:48
+msgid "Canceled"
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:109
+#: solidres/admin/reservations/list.php:214
+#: solidres/admin/reservations/layouts/general_info.php:51
+msgid "Confirmed"
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:113
+#: solidres/includes/solidres_helper.php:175
+#: solidres/admin/extras/list.php:147
+#: solidres/admin/states/list.php:159
+#: solidres/admin/reservations/list.php:215
+#: solidres/admin/reservations/layouts/general_info.php:54
+#: solidres/admin/roomtypes/list.php:145
+#: solidres/admin/assets/list.php:152
+#: solidres/admin/assets/layouts/publishing.php:31
+#: solidres/admin/coupons/list.php:156
+#: solidres/admin/taxes/list.php:132
+msgid "Trashed"
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:129
+#: solidres/admin/reservations/list.php:219
+#: solidres/admin/reservations/layouts/general_info.php:21
+msgid "Unpaid"
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:132
+#: solidres/admin/reservations/list.php:220
+#: solidres/admin/reservations/layouts/general_info.php:24
+msgid "Completed"
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:135
+#: solidres/admin/reservations/list.php:221
+#: solidres/admin/reservations/layouts/general_info.php:27
+msgid "Cancelled"
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:138
+#: solidres/admin/reservations/list.php:222
+#: solidres/admin/reservations/layouts/general_info.php:30
+msgid "Pending"
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:160
+msgid "Reservations"
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:162
+#: solidres/includes/solidres_helper.php:109
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:168
+#: solidres/includes/solidres_helper.php:124
+msgid "Publish"
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:175
+#: solidres/includes/solidres_helper.php:140
+msgid "Trash"
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:524
+msgid "Mr."
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:525
+msgid "Mrs."
+msgstr ""
+
+#: solidres/libraries/reservation/reservation.php:526
+msgid "Ms."
+msgstr ""
+
+#: solidres/widgets/widget-checkavailability.php:20
+#: solidres/widgets/widget-checkavailability.php:21
+#: solidres/widgets/widget-checkavailability.php:220
+msgid "Solidres - Module check availability"
+msgstr ""
+
+#: solidres/widgets/widget-checkavailability.php:152
+msgid "Arrival Date"
+msgstr ""
+
+#: solidres/widgets/widget-checkavailability.php:172
+msgid "Departure Date"
+msgstr ""
+
+#: solidres/widgets/widget-checkavailability.php:193
+msgid "Check"
+msgstr ""
+
+#: solidres/widgets/widget-checkavailability.php:223
+#: solidres/widgets/widget-currency.php:69
+msgid "Title:"
+msgstr ""
+
+#: solidres/widgets/widget-currency.php:20
+#: solidres/widgets/widget-currency.php:21
+#: solidres/widgets/widget-currency.php:66
+msgid "Solidres - Module currency"
+msgstr ""
+
+#: solidres/includes/core-functions.php:47
+msgid "<span class=\"sr_enable\">Version "
+msgstr ""
+
+#: solidres/includes/core-functions.php:51
+msgid "<span class=\"sr_warning\">Version "
+msgstr ""
+
+#: solidres/includes/core-functions.php:56
+msgid "<span class=\"sr_disable\">Not installed</span>"
+msgstr ""
+
+#: solidres/includes/form-handler.php:118
+msgid "Your reservation is completed"
+msgstr ""
+
+#: solidres/includes/form-handler.php:119
+msgid "New reservation"
+msgstr ""
+
+#: solidres/includes/class-solidres-list-table.php:25
+#: solidres/admin/states/list.php:137
+#: solidres/admin/reservations/list.php:164
+#: solidres/admin/currencies/list.php:117
+#, php-format
+msgid "<a href=\"?page=%s&action=%s&id=%s\">Restore</a>"
+msgstr ""
+
+#: solidres/includes/class-solidres-list-table.php:26
+#: solidres/admin/states/list.php:138
+#: solidres/admin/reservations/list.php:165
+#: solidres/admin/currencies/list.php:118
+#, php-format
+msgid "<a href=\"?page=%s&action=%s&id=%s\">Delete Permanently</a>"
+msgstr ""
+
+#: solidres/includes/class-solidres-list-table.php:30
+#: solidres/admin/states/list.php:143
+#: solidres/admin/reservations/list.php:170
+#: solidres/admin/currencies/list.php:122
+#, php-format
+msgid "<a href=\"?page=%s&action=%s&id=%s\">Edit</a>"
+msgstr ""
+
+#: solidres/includes/class-solidres-list-table.php:31
+#: solidres/admin/states/list.php:144
+#: solidres/admin/reservations/list.php:171
+#: solidres/admin/currencies/list.php:123
+#, php-format
+msgid "<a href=\"?page=%s&action=%s&id=%s\">Trash</a>"
+msgstr ""
+
+#: solidres/includes/class-solidres-list-table.php:48
+#: solidres/admin/reservations/list.php:181
+msgid "Restore"
+msgstr ""
+
+#: solidres/includes/class-solidres-list-table.php:49
+#: solidres/admin/reservations/list.php:182
+msgid "Delete Permanently"
+msgstr ""
+
+#: solidres/includes/class-solidres-list-table.php:54
+msgid "Move to Publish"
+msgstr ""
+
+#: solidres/includes/class-solidres-list-table.php:55
+#: solidres/includes/class-solidres-list-table.php:60
+#: solidres/includes/class-solidres-list-table.php:64
+#: solidres/admin/reservations/list.php:187
+msgid "Move to Trash"
+msgstr ""
+
+#: solidres/includes/class-solidres-list-table.php:59
+msgid "Move to Draft"
+msgstr ""
+
+#: solidres/includes/top_menu.php:20
+msgid "Solidres"
+msgstr ""
+
+#: solidres/includes/top_menu.php:23
+msgid "Solidsres"
+msgstr ""
+
+#: solidres/includes/top_menu.php:32
+msgid "Add new Asset"
+msgstr ""
+
+#: solidres/includes/top_menu.php:43
+msgid "Add new Room Type"
+msgstr ""
+
+#: solidres/includes/top_menu.php:54
+msgid "Add new Coupon "
+msgstr ""
+
+#: solidres/includes/top_menu.php:65
+msgid "Add new Extra"
+msgstr ""
+
+#: solidres/includes/solidres_helper.php:107
+#: solidres/admin/countries/edit.php:54
+#: solidres/admin/extras/edit.php:65
+#: solidres/admin/categories/edit.php:55
+#: solidres/admin/states/edit.php:49
+#: solidres/admin/currencies/edit.php:49
+#: solidres/admin/roomtypes/edit.php:128
+#: solidres/admin/assets/edit.php:137
+#: solidres/admin/coupons/edit.php:65
+#: solidres/admin/taxes/edit.php:57
+msgid "Add New"
+msgstr ""
+
+#: solidres/includes/solidres_helper.php:116
+msgid "All"
+msgstr ""
+
+#: solidres/includes/solidres_helper.php:132
+msgid "Draft"
+msgstr ""
+
+#: solidres/includes/solidres_helper.php:169
+#: solidres/admin/countries/layouts/general_infomation.php:33
+#: solidres/admin/extras/list.php:146
+#: solidres/admin/extras/layouts/general_infomation.php:47
+#: solidres/admin/categories/layouts/general_infomation.php:29
+#: solidres/admin/states/list.php:158
+#: solidres/admin/states/layouts/general_infomation.php:43
+#: solidres/admin/currencies/layouts/general_infomation.php:37
+#: solidres/admin/roomtypes/list.php:144
+#: solidres/admin/roomtypes/layouts/general_infomation.php:84
+#: solidres/admin/assets/list.php:151
+#: solidres/admin/assets/layouts/publishing.php:29
+#: solidres/admin/coupons/list.php:155
+#: solidres/admin/coupons/layouts/general_infomation.php:86
+#: solidres/admin/taxes/list.php:131
+#: solidres/admin/taxes/layouts/general_infomation.php:47
+msgid "Unpublished"
+msgstr ""
+
+#: solidres/includes/solidres_helper.php:172
+#: solidres/admin/countries/list.php:101
+#: solidres/admin/countries/layouts/general_infomation.php:34
+#: solidres/admin/extras/list.php:129
+#: solidres/admin/extras/list.php:145
+#: solidres/admin/extras/layouts/general_infomation.php:48
+#: solidres/admin/categories/layouts/general_infomation.php:30
+#: solidres/admin/states/list.php:125
+#: solidres/admin/states/list.php:157
+#: solidres/admin/states/layouts/general_infomation.php:44
+#: solidres/admin/currencies/list.php:106
+#: solidres/admin/currencies/layouts/general_infomation.php:38
+#: solidres/admin/roomtypes/list.php:127
+#: solidres/admin/roomtypes/list.php:143
+#: solidres/admin/roomtypes/layouts/general_infomation.php:85
+#: solidres/admin/assets/list.php:134
+#: solidres/admin/assets/list.php:150
+#: solidres/admin/assets/layouts/publishing.php:30
+#: solidres/admin/coupons/list.php:135
+#: solidres/admin/coupons/list.php:154
+#: solidres/admin/coupons/layouts/general_infomation.php:87
+#: solidres/admin/taxes/list.php:118
+#: solidres/admin/taxes/list.php:130
+#: solidres/admin/taxes/layouts/general_infomation.php:48
+msgid "Published"
+msgstr ""
+
+#: solidres/includes/solidres_helper.php:394
+msgid "No room type available"
+msgstr ""
+
+#: solidres/includes/solidres_helper.php:398
+#: solidres/includes/solidres_helper.php:431
+#: solidres/admin/countries/layouts/general_infomation.php:30
+#: solidres/admin/extras/layouts/general_infomation.php:44
+#: solidres/admin/categories/list.php:109
+#: solidres/admin/categories/layouts/general_infomation.php:26
+#: solidres/admin/currencies/layouts/general_infomation.php:34
+#: solidres/admin/roomtypes/layouts/general_infomation.php:81
+#: solidres/admin/assets/layouts/general_infomation.php:83
+#: solidres/admin/coupons/layouts/general_infomation.php:83
+#: solidres/admin/taxes/layouts/general_infomation.php:36
+msgid "State"
+msgstr ""
+
+#: solidres/includes/solidres_helper.php:399
+#: solidres/includes/solidres_helper.php:432
+#: solidres/admin/countries/list.php:100
+#: solidres/admin/categories/list.php:107
+#: solidres/admin/reservations/layouts/other_information.php:25
+#: solidres/admin/reservations/layouts/room_extra_info.php:52
+#: solidres/admin/roomtypes/list.php:126
+#: solidres/admin/roomtypes/layouts/general_infomation.php:32
+#: solidres/admin/assets/list.php:133
+#: solidres/admin/taxes/list.php:116
+msgid "Name"
+msgstr ""
+
+#: solidres/includes/solidres_helper.php:427
+msgid "No extra available"
+msgstr ""
+
+#: solidres/includes/solidres_helper.php:433
+#: solidres/admin/extras/list.php:131
+#: solidres/admin/extras/layouts/general_infomation.php:93
+#: solidres/admin/reservations/layouts/other_information.php:27
+#: solidres/admin/reservations/layouts/room_extra_info.php:54
+msgid "Price"
+msgstr ""
+
+#: solidres/admin/countries/add.php:42
+msgid "Add country failed"
+msgstr ""
+
+#: solidres/admin/countries/add.php:48
+msgid "Add new country"
+msgstr ""
+
+#: solidres/admin/countries/add.php:52
+#: solidres/admin/countries/edit.php:58
+#: solidres/admin/extras/layouts/general_infomation.php:17
+#: solidres/admin/categories/add.php:48
+#: solidres/admin/categories/edit.php:59
+#: solidres/admin/states/add.php:44
+#: solidres/admin/states/edit.php:53
+#: solidres/admin/currencies/add.php:46
+#: solidres/admin/currencies/edit.php:53
+#: solidres/admin/roomtypes/layouts/general_infomation.php:27
+#: solidres/admin/assets/layouts/general_infomation.php:17
+#: solidres/admin/coupons/layouts/general_infomation.php:18
+#: solidres/admin/taxes/add.php:48
+#: solidres/admin/taxes/edit.php:61
+msgid "General infomartion"
+msgstr ""
+
+#: solidres/admin/countries/add.php:56
+#: solidres/admin/countries/edit.php:62
+#: solidres/admin/extras/add.php:73
+#: solidres/admin/extras/edit.php:79
+#: solidres/admin/categories/add.php:52
+#: solidres/admin/categories/edit.php:63
+#: solidres/admin/states/add.php:48
+#: solidres/admin/states/edit.php:57
+#: solidres/admin/currencies/add.php:50
+#: solidres/admin/currencies/edit.php:57
+#: solidres/admin/roomtypes/add.php:130
+#: solidres/admin/roomtypes/edit.php:147
+#: solidres/admin/assets/add.php:140
+#: solidres/admin/assets/edit.php:159
+#: solidres/admin/coupons/add.php:71
+#: solidres/admin/coupons/edit.php:79
+#: solidres/admin/taxes/add.php:52
+#: solidres/admin/taxes/edit.php:65
+msgid "Save"
+msgstr ""
+
+#: solidres/admin/countries/list.php:40
+#: solidres/admin/states/list.php:39
+#: solidres/admin/currencies/list.php:39
+#: solidres/admin/assets/list.php:41
+#: solidres/admin/taxes/list.php:39
+msgid "Error, can not delete <span class=\"bold\"> "
+msgstr ""
+
+#: solidres/admin/countries/list.php:43
+#: solidres/admin/states/list.php:42
+#: solidres/admin/currencies/list.php:42
+#: solidres/admin/assets/list.php:44
+#: solidres/admin/taxes/list.php:42
+msgid "<span class=\"bold\"> "
+msgstr ""
+
+#: solidres/admin/countries/list.php:66
+msgid "country"
+msgstr ""
+
+#: solidres/admin/countries/list.php:67
+msgid "countries"
+msgstr ""
+
+#: solidres/admin/countries/list.php:73
+msgid "No country found!"
+msgstr ""
+
+#: solidres/admin/countries/list.php:99
+#: solidres/admin/extras/list.php:127
+#: solidres/admin/categories/list.php:106
+#: solidres/admin/states/list.php:123
+#: solidres/admin/reservations/list.php:147
+#: solidres/admin/currencies/list.php:104
+#: solidres/admin/roomtypes/list.php:125
+#: solidres/admin/assets/list.php:132
+#: solidres/admin/coupons/list.php:133
+#: solidres/admin/taxes/list.php:115
+msgid "ID"
+msgstr ""
+
+#: solidres/admin/countries/edit.php:44
+msgid "Update country failed"
+msgstr ""
+
+#: solidres/admin/countries/edit.php:52
+msgid "Country published."
+msgstr ""
+
+#: solidres/admin/countries/edit.php:53
+msgid "Country updated."
+msgstr ""
+
+#: solidres/admin/countries/edit.php:54
+msgid "Edit country"
+msgstr ""
+
+#: solidres/admin/countries/layouts/general_infomation.php:18
+msgid "Name desc"
+msgstr ""
+
+#: solidres/admin/countries/layouts/general_infomation.php:18
+msgid "Country Name"
+msgstr ""
+
+#: solidres/admin/countries/layouts/general_infomation.php:22
+msgid "ISO country code 2"
+msgstr ""
+
+#: solidres/admin/countries/layouts/general_infomation.php:22
+#: solidres/admin/states/list.php:127
+#: solidres/admin/states/layouts/general_infomation.php:32
+msgid "Code 2"
+msgstr ""
+
+#: solidres/admin/countries/layouts/general_infomation.php:26
+msgid "ISO country code 3"
+msgstr ""
+
+#: solidres/admin/countries/layouts/general_infomation.php:26
+#: solidres/admin/states/list.php:128
+#: solidres/admin/states/layouts/general_infomation.php:36
+msgid "Code 3"
+msgstr ""
+
+#: solidres/admin/countries/layouts/general_infomation.php:30
+#: solidres/admin/categories/layouts/general_infomation.php:26
+#: solidres/admin/states/layouts/general_infomation.php:40
+#: solidres/admin/assets/layouts/publishing.php:26
+msgid "The status of this item."
+msgstr ""
+
+#: solidres/admin/extras/add.php:51
+msgid "Add new extra failed"
+msgstr ""
+
+#: solidres/admin/extras/add.php:59
+msgid "Add new extra"
+msgstr ""
+
+#: solidres/admin/extras/list.php:39
+msgid "1 extra permanently deleted."
+msgstr ""
+
+#: solidres/admin/extras/list.php:42
+msgid " extras permanently deleted."
+msgstr ""
+
+#: solidres/admin/extras/list.php:82
+#: solidres/admin/extras/layouts/general_infomation.php:67
+msgid "Per booking"
+msgstr ""
+
+#: solidres/admin/extras/list.php:82
+#: solidres/admin/extras/layouts/general_infomation.php:66
+msgid "Per room"
+msgstr ""
+
+#: solidres/admin/extras/list.php:86
+msgid "extra"
+msgstr ""
+
+#: solidres/admin/extras/list.php:87
+msgid "extras"
+msgstr ""
+
+#: solidres/admin/extras/list.php:93
+msgid "No extra found!"
+msgstr ""
+
+#: solidres/admin/extras/list.php:128
+#: solidres/admin/extras/layouts/general_infomation.php:22
+msgid "Extra name"
+msgstr ""
+
+#: solidres/admin/extras/list.php:130
+#: solidres/admin/reservations/list.php:149
+#: solidres/admin/roomtypes/list.php:128
+#: solidres/admin/roomtypes/layouts/general_infomation.php:40
+#: solidres/admin/coupons/list.php:136
+msgid "Asset"
+msgstr ""
+
+#: solidres/admin/extras/list.php:132
+#: solidres/admin/extras/layouts/general_infomation.php:53
+msgid "Mandatory"
+msgstr ""
+
+#: solidres/admin/extras/list.php:133
+#: solidres/admin/extras/layouts/general_infomation.php:62
+msgid "Charge type"
+msgstr ""
+
+#: solidres/admin/extras/list.php:144
+#: solidres/admin/states/list.php:156
+#: solidres/admin/reservations/list.php:208
+#: solidres/admin/roomtypes/list.php:142
+#: solidres/admin/assets/list.php:149
+#: solidres/admin/coupons/list.php:153
+#: solidres/admin/taxes/list.php:129
+msgid "Filter by status"
+msgstr ""
+
+#: solidres/admin/extras/list.php:151
+#: solidres/admin/reservations/list.php:204
+#: solidres/admin/roomtypes/list.php:149
+#: solidres/admin/coupons/list.php:159
+msgid "Filter by assets"
+msgstr ""
+
+#: solidres/admin/extras/list.php:154
+#: solidres/admin/states/list.php:166
+#: solidres/admin/reservations/list.php:250
+#: solidres/admin/roomtypes/list.php:152
+#: solidres/admin/assets/list.php:162
+#: solidres/admin/coupons/list.php:162
+#: solidres/admin/taxes/list.php:135
+msgid "Filter"
+msgstr ""
+
+#: solidres/admin/extras/edit.php:55
+msgid "Update extra failed"
+msgstr ""
+
+#: solidres/admin/extras/edit.php:63
+msgid "Extra published."
+msgstr ""
+
+#: solidres/admin/extras/edit.php:64
+msgid "Extra updated."
+msgstr ""
+
+#: solidres/admin/extras/edit.php:65
+msgid "Edit extra"
+msgstr ""
+
+#: solidres/admin/extras/layouts/publishing.php:22
+#: solidres/admin/roomtypes/layouts/publishing.php:21
+#: solidres/admin/assets/layouts/publishing.php:21
+#: solidres/admin/coupons/layouts/publishing.php:20
+msgid "Publishing"
+msgstr ""
+
+#: solidres/admin/extras/layouts/publishing.php:27
+#: solidres/admin/coupons/layouts/publishing.php:25
+msgid ""
+"Select an article for this extra, this article could be used to show full "
+"information of this extra in front end."
+msgstr ""
+
+#: solidres/admin/extras/layouts/publishing.php:27
+#: solidres/admin/coupons/layouts/publishing.php:25
+msgid "Article"
+msgstr ""
+
+#: solidres/admin/extras/layouts/publishing.php:33
+#: solidres/admin/assets/layouts/publishing.php:101
+#: solidres/admin/assets/layouts/publishing.php:112
+#: solidres/admin/assets/layouts/publishing.php:123
+#: solidres/admin/coupons/layouts/publishing.php:31
+msgid "Select an Article"
+msgstr ""
+
+#: solidres/admin/extras/layouts/publishing.php:39
+#: solidres/admin/coupons/layouts/publishing.php:37
+msgid "Select an image for this extra, it could be used in front end display."
+msgstr ""
+
+#: solidres/admin/extras/layouts/publishing.php:39
+#: solidres/admin/coupons/layouts/publishing.php:37
+msgid "Image"
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:26
+msgid ""
+"Enter the name of your Extra/Services. For example: Airport pickup or Spa."
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:26
+#: solidres/admin/extras/layouts/general_infomation.php:29
+#: solidres/admin/coupons/layouts/general_infomation.php:35
+msgid "Reservation Asset"
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:35
+msgid ""
+"Select the tax that will apply to this extra item. The tax list is depend on "
+"the selected reservation asset above. Please select a reservation asset "
+"first and the tax list will be displayed accordingly."
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:35
+#: solidres/admin/assets/layouts/general_infomation.php:100
+msgid "Tax"
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:38
+msgid "Select Tax"
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:44
+msgid ""
+"Select the state of this Extra/Service, only published Extra/Service can be "
+"used."
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:53
+msgid ""
+"Mandatory extra item will be always selected and the guests are not able to "
+"change it"
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:62
+msgid ""
+"Select the charge type of this extra item. The FREE version supports 2 basic "
+"charge types: Per booking and Per Room. With Advanced Extra plugin, 5 more "
+"charge types will be available for choosing. If you choose Per person charge "
+"type, you need to enter values into fields Price Adult and Price Children."
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:70
+msgid "Per booking per night"
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:71
+msgid "Per booking per person"
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:72
+msgid "Per room per night"
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:73
+msgid "Per room per person"
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:74
+msgid "Per room per person per night"
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:80
+msgid ""
+"Enter the maximum extra quantity that can be selected in the reservation "
+"process."
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:80
+msgid "Max Quantity"
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:84
+msgid "Select No if this Extra/Service is free."
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:84
+msgid "Chargable"
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:93
+msgid ""
+"Enter the price of this Extra/Service. The currency of Reservation Asset "
+"will apply here."
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:97
+msgid "Enter some text to decribe your Extra/Service"
+msgstr ""
+
+#: solidres/admin/extras/layouts/general_infomation.php:97
+#: solidres/admin/roomtypes/layouts/general_infomation.php:90
+#: solidres/admin/assets/layouts/general_infomation.php:108
+msgid "Description"
+msgstr ""
+
+#: solidres/admin/categories/add.php:21
+msgid "Asset category slug already exists."
+msgstr ""
+
+#: solidres/admin/categories/add.php:37
+msgid "Add category failed"
+msgstr ""
+
+#: solidres/admin/categories/add.php:44
+msgid "Add new category"
+msgstr ""
+
+#: solidres/admin/categories/list.php:40
+msgid "1 asset category permanently deleted."
+msgstr ""
+
+#: solidres/admin/categories/list.php:43
+msgid " asset categories permanently deleted."
+msgstr ""
+
+#: solidres/admin/categories/list.php:68
+msgid "categogy"
+msgstr ""
+
+#: solidres/admin/categories/list.php:69
+msgid "categogies"
+msgstr ""
+
+#: solidres/admin/categories/list.php:76
+msgid "No category found!"
+msgstr ""
+
+#: solidres/admin/categories/list.php:108
+#: solidres/admin/categories/layouts/general_infomation.php:22
+#: solidres/admin/roomtypes/layouts/general_infomation.php:36
+msgid "Slug"
+msgstr ""
+
+#: solidres/admin/categories/list.php:110
+msgid "Parent ID"
+msgstr ""
+
+#: solidres/admin/categories/edit.php:27
+msgid "Asset slug name already exists."
+msgstr ""
+
+#: solidres/admin/categories/edit.php:45
+msgid "Update category failed"
+msgstr ""
+
+#: solidres/admin/categories/edit.php:53
+msgid "Asset category published."
+msgstr ""
+
+#: solidres/admin/categories/edit.php:54
+msgid "Asset category updated."
+msgstr ""
+
+#: solidres/admin/categories/edit.php:55
+msgid "Edit Asset category"
+msgstr ""
+
+#: solidres/admin/categories/layouts/general_infomation.php:18
+msgid "Enter your asset category name"
+msgstr ""
+
+#: solidres/admin/categories/layouts/general_infomation.php:18
+msgid "Asset Category name"
+msgstr ""
+
+#: solidres/admin/categories/layouts/general_infomation.php:19
+msgid "Enter asset category name"
+msgstr ""
+
+#: solidres/admin/categories/layouts/general_infomation.php:22
+msgid "Slug is used in Search Engine Friendly URL."
+msgstr ""
+
+#: solidres/admin/categories/layouts/general_infomation.php:23
+msgid "Enter asset category slug"
+msgstr ""
+
+#: solidres/admin/categories/layouts/general_infomation.php:35
+msgid "Select Parent category for this item"
+msgstr ""
+
+#: solidres/admin/categories/layouts/general_infomation.php:35
+msgid "Parent Node"
+msgstr ""
+
+#: solidres/admin/categories/layouts/general_infomation.php:38
+msgid "Select parent node"
+msgstr ""
+
+#: solidres/admin/facilities/facility.php:18
+#: solidres/admin/limitbookings/limit-bookings.php:18
+#: solidres/admin/reservations/layouts/invoice.php:20
+#: solidres/admin/customer-groups/customer-groups.php:18
+#: solidres/admin/assets/layouts/theme.php:20
+#: solidres/admin/themes/theme.php:18
+#: solidres/admin/customers/customers.php:18
+msgid ""
+"This feature allow you to select one or multiple themes for your reservation "
+"asset and they can be used in front end search and filtering."
+msgstr ""
+
+#: solidres/admin/facilities/facility.php:19
+#: solidres/admin/limitbookings/limit-bookings.php:19
+#: solidres/admin/reservations/layouts/invoice.php:21
+#: solidres/admin/roomtypes/layouts/facility.php:21
+#: solidres/admin/customer-groups/customer-groups.php:19
+#: solidres/admin/assets/layouts/facility.php:21
+#: solidres/admin/assets/layouts/theme.php:21
+#: solidres/admin/themes/theme.php:19
+#: solidres/admin/customers/customers.php:19
+msgid ""
+"<strong>Notice:</strong> plugin Hub is not installed or enabled. <a target="
+"\"blank\" href=\"https://www.solidres.com/subscribe/levels\">Become a "
+"subscriber and download it now.</a>"
+msgstr ""
+
+#: solidres/admin/limitbookings/limit-bookings.php:29
+msgid ""
+"<strong>Notice:</strong> Please active <strong>limit bookings plugin</"
+"strong>. <a target=\"blank\" href=\""
+msgstr ""
+
+#: solidres/admin/system/system.php:47
+msgid "Solidres System"
+msgstr ""
+
+#: solidres/admin/system/system.php:51
+msgid "Version info"
+msgstr ""
+
+#: solidres/admin/system/system.php:57
+msgid "Version "
+msgstr ""
+
+#: solidres/admin/system/system.php:58
+msgid ""
+"If you use Solidres, please post a rating and a review at the <a target="
+"\"blank\" href=\"http://extensions.joomla.org/extensions/extension/vertical-"
+"markets/booking-a-reservations/solidres\">Joomla! Extensions Directory</a>"
+msgstr ""
+
+#: solidres/admin/system/system.php:65
+msgid "Plugins status"
+msgstr ""
+
+#: solidres/admin/system/system.php:70
+msgid "Plugin Name"
+msgstr ""
+
+#: solidres/admin/system/system.php:71
+msgid "Plugin Status"
+msgstr ""
+
+#: solidres/admin/system/system.php:88
+msgid "Widget status"
+msgstr ""
+
+#: solidres/admin/system/system.php:93
+msgid "Widget Name"
+msgstr ""
+
+#: solidres/admin/system/system.php:94
+msgid "Widget Status"
+msgstr ""
+
+#: solidres/admin/system/system.php:111
+msgid "System check list"
+msgstr ""
+
+#: solidres/admin/system/system.php:116
+msgid "Setting name"
+msgstr ""
+
+#: solidres/admin/system/system.php:117
+#: solidres/admin/states/layouts/general_infomation.php:40
+#: solidres/admin/reservations/list.php:150
+#: solidres/admin/reservations/layouts/general_info.php:149
+#: solidres/admin/assets/layouts/publishing.php:26
+#: solidres/admin/taxes/layouts/general_infomation.php:44
+msgid "Status"
+msgstr ""
+
+#: solidres/admin/system/system.php:122
+msgid "GD is enabled in your server"
+msgstr ""
+
+#: solidres/admin/system/system.php:123
+msgid "<span class=\"sr_enable\">YES</span>"
+msgstr ""
+
+#: solidres/admin/system/system.php:123
+#: solidres/admin/system/system.php:128
+msgid "<span class=\"sr_warning\">NO</span>"
+msgstr ""
+
+#: solidres/admin/system/system.php:127
+msgid "/wp-content/upload is writable?"
+msgstr ""
+
+#: solidres/admin/system/system.php:128
+msgid "<span class=\"sr_enable\">Yes</span>"
+msgstr ""
+
+#: solidres/admin/states/add.php:34
+msgid "Add new state failed"
+msgstr ""
+
+#: solidres/admin/states/add.php:40
+msgid "Add new state"
+msgstr ""
+
+#: solidres/admin/states/list.php:84
+msgid "state"
+msgstr ""
+
+#: solidres/admin/states/list.php:85
+msgid "states"
+msgstr ""
+
+#: solidres/admin/states/list.php:91
+msgid "No state found!"
+msgstr ""
+
+#: solidres/admin/states/list.php:124
+#: solidres/admin/states/layouts/general_infomation.php:20
+msgid "State Name"
+msgstr ""
+
+#: solidres/admin/states/list.php:163
+#: solidres/admin/assets/list.php:159
+msgid "Filter by countries"
+msgstr ""
+
+#: solidres/admin/states/edit.php:40
+msgid "Update state failed"
+msgstr ""
+
+#: solidres/admin/states/edit.php:47
+msgid "State published."
+msgstr ""
+
+#: solidres/admin/states/edit.php:48
+msgid "State updated."
+msgstr ""
+
+#: solidres/admin/states/edit.php:49
+msgid "Edit state"
+msgstr ""
+
+#: solidres/admin/states/layouts/general_infomation.php:20
+msgid "Enter the name of your country's state."
+msgstr ""
+
+#: solidres/admin/states/layouts/general_infomation.php:24
+#: solidres/admin/assets/layouts/general_infomation.php:75
+msgid "Your reservation asset's country"
+msgstr ""
+
+#: solidres/admin/reservations/list.php:39
+msgid "1 reservation permanently deleted."
+msgstr ""
+
+#: solidres/admin/reservations/list.php:42
+msgid " reservations permanently deleted."
+msgstr ""
+
+#: solidres/admin/reservations/list.php:102
+msgid "reservation"
+msgstr ""
+
+#: solidres/admin/reservations/list.php:103
+msgid "reservations"
+msgstr ""
+
+#: solidres/admin/reservations/list.php:109
+msgid "No reservation found!"
+msgstr ""
+
+#: solidres/admin/reservations/list.php:148
+msgid "Code Name"
+msgstr ""
+
+#: solidres/admin/reservations/list.php:151
+#: solidres/admin/reservations/layouts/general_info.php:175
+msgid "Payment status"
+msgstr ""
+
+#: solidres/admin/reservations/list.php:152
+msgid "Customer"
+msgstr ""
+
+#: solidres/admin/reservations/list.php:153
+msgid "Check-in"
+msgstr ""
+
+#: solidres/admin/reservations/list.php:154
+msgid "Check-out"
+msgstr ""
+
+#: solidres/admin/reservations/list.php:155
+msgid "Craete Date"
+msgstr ""
+
+#: solidres/admin/reservations/list.php:218
+msgid "Filter by payment status"
+msgstr ""
+
+#: solidres/admin/reservations/list.php:227
+#: solidres/admin/reservations/list.php:240
+msgid "From"
+msgstr ""
+
+#: solidres/admin/reservations/list.php:228
+msgid "Check-in from"
+msgstr ""
+
+#: solidres/admin/reservations/list.php:231
+#: solidres/admin/reservations/list.php:244
+msgid "To"
+msgstr ""
+
+#: solidres/admin/reservations/list.php:232
+msgid "Check-in to"
+msgstr ""
+
+#: solidres/admin/reservations/list.php:241
+msgid "Check-out from"
+msgstr ""
+
+#: solidres/admin/reservations/list.php:245
+msgid "Check-out to"
+msgstr ""
+
+#: solidres/admin/reservations/edit.php:23
+msgid "Edit Reservation"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/general_info.php:100
+#: solidres/admin/currencies/list.php:107
+#: solidres/admin/options/option.php:93
+msgid "Code"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/general_info.php:105
+msgid "Room cost (excl tax)"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/general_info.php:109
+#: solidres/admin/assets/layouts/general_infomation.php:22
+msgid "Asset name"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/general_info.php:111
+msgid "Room cost tax"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/general_info.php:115
+msgid "Checkin"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/general_info.php:117
+msgid "Extra cost (exl tax)"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/general_info.php:121
+msgid "Checkout"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/general_info.php:123
+msgid "Extra tax"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/general_info.php:127
+msgid "Number of nights"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/general_info.php:129
+msgid "Grand total"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/general_info.php:133
+msgid "Created date"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/general_info.php:139
+msgid "Payment type"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/general_info.php:141
+msgid "Total paid"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/general_info.php:163
+msgid " Cancel this reservation"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/general_info.php:171
+#: solidres/admin/coupons/list.php:137
+#: solidres/admin/coupons/layouts/general_infomation.php:27
+msgid "Coupon code"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/general_info.php:183
+msgid "Notes"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/other_information.php:17
+msgid "Other infomartion"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/other_information.php:26
+#: solidres/admin/reservations/layouts/room_extra_info.php:53
+#: solidres/admin/coupons/list.php:140
+#: solidres/admin/coupons/layouts/general_infomation.php:79
+#: solidres/templates/single-asset/default-roomtype.php:454
+msgid "Quantity"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/invoice.php:17
+#: solidres/admin/options/option.php:118
+msgid "Invoice"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/reservation_note.php:21
+msgid "Reservation Note"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/reservation_note.php:26
+msgid "Type your message here"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/reservation_note.php:28
+msgid "Notify customer via email"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/reservation_note.php:29
+msgid "Display in frontend"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/reservation_note.php:33
+msgid "Submit"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/reservation_note.php:44
+msgid "Notify customer via email:"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/reservation_note.php:44
+msgid "Display in frontend:"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/customer_info.php:27
+msgid "Customer info"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/customer_info.php:32
+msgid "Customer title"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/customer_info.php:34
+msgid "Company"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/customer_info.php:38
+msgid "Firstname"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/customer_info.php:44
+msgid "Lastname"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/customer_info.php:46
+#: solidres/admin/assets/layouts/general_infomation.php:47
+msgid "Address 2"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/customer_info.php:56
+#: solidres/admin/assets/layouts/general_infomation.php:67
+msgid "Phone"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/customer_info.php:58
+msgid "Zip code"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/customer_info.php:62
+msgid "Mobile phone"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/customer_info.php:68
+msgid "VAT Number"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/customer_info.php:70
+msgid "State/Country"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/room_extra_info.php:26
+msgid "Room type name"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/room_extra_info.php:27
+msgid "Room number"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/room_extra_info.php:28
+#: solidres/admin/roomtypes/layouts/general_infomation.php:49
+msgid "Room occupancy"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/room_extra_info.php:29
+msgid "Room cost (tax incl)"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/room_extra_info.php:30
+msgid "Extras"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/room_extra_info.php:42
+msgid "Adult number:"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/room_extra_info.php:75
+msgid "Guest fullname:"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/room_extra_info.php:76
+msgid "Child number:"
+msgstr ""
+
+#: solidres/admin/reservations/layouts/room_extra_info.php:84
+msgid "No room available"
+msgstr ""
+
+#: solidres/admin/currencies/add.php:36
+msgid "Add currency failed"
+msgstr ""
+
+#: solidres/admin/currencies/add.php:42
+msgid "Add new currency"
+msgstr ""
+
+#: solidres/admin/currencies/list.php:66
+msgid "currency"
+msgstr ""
+
+#: solidres/admin/currencies/list.php:67
+msgid "currencies"
+msgstr ""
+
+#: solidres/admin/currencies/list.php:74
+msgid "No currency found!"
+msgstr ""
+
+#: solidres/admin/currencies/list.php:105
+#: solidres/admin/currencies/layouts/general_infomation.php:18
+msgid "Currency name"
+msgstr ""
+
+#: solidres/admin/currencies/list.php:108
+#: solidres/admin/currencies/layouts/general_infomation.php:30
+msgid "Exchange rate"
+msgstr ""
+
+#: solidres/admin/currencies/edit.php:47
+msgid "Currency published."
+msgstr ""
+
+#: solidres/admin/currencies/edit.php:48
+msgid "Currency updated."
+msgstr ""
+
+#: solidres/admin/currencies/edit.php:49
+msgid "Edit currency"
+msgstr ""
+
+#: solidres/admin/currencies/layouts/general_infomation.php:18
+msgid "For example: Dollar, Euro"
+msgstr ""
+
+#: solidres/admin/currencies/layouts/general_infomation.php:22
+msgid "For example: USD, EUR"
+msgstr ""
+
+#: solidres/admin/currencies/layouts/general_infomation.php:22
+msgid "Currency code"
+msgstr ""
+
+#: solidres/admin/currencies/layouts/general_infomation.php:26
+msgid "Currency symbol"
+msgstr ""
+
+#: solidres/admin/currencies/layouts/general_infomation.php:26
+#: solidres/admin/options/option.php:97
+msgid "Symbol"
+msgstr ""
+
+#: solidres/admin/currencies/layouts/general_infomation.php:30
+msgid ""
+"Exchange rate with Dollar, for example if your currency is Euro, the "
+"exchange rate should be about 1.2"
+msgstr ""
+
+#: solidres/admin/currencies/layouts/general_infomation.php:34
+msgid "Enable or disable this currency"
+msgstr ""
+
+#: solidres/admin/currencies/layouts/general_infomation.php:43
+msgid ""
+"Specify the filter range which will be used by HUB plugin in the front end "
+"for filtering purpose."
+msgstr ""
+
+#: solidres/admin/currencies/layouts/general_infomation.php:43
+msgid "Filter range"
+msgstr ""
+
+#: solidres/admin/roomtypes/add.php:24
+#: solidres/admin/roomtypes/edit.php:30
+msgid "Room types slug already exists."
+msgstr ""
+
+#: solidres/admin/roomtypes/add.php:102
+msgid "Add roomtype failed"
+msgstr ""
+
+#: solidres/admin/roomtypes/add.php:111
+msgid "Add new room type"
+msgstr ""
+
+#: solidres/admin/roomtypes/list.php:40
+msgid "1 room types permanently deleted."
+msgstr ""
+
+#: solidres/admin/roomtypes/list.php:43
+msgid " rooms types permanently deleted."
+msgstr ""
+
+#: solidres/admin/roomtypes/list.php:84
+msgid "roomtype"
+msgstr ""
+
+#: solidres/admin/roomtypes/list.php:85
+msgid "roomtypes"
+msgstr ""
+
+#: solidres/admin/roomtypes/list.php:91
+msgid "No room type found!"
+msgstr ""
+
+#: solidres/admin/roomtypes/list.php:129
+msgid "Number of rooms"
+msgstr ""
+
+#: solidres/admin/roomtypes/list.php:130
+msgid "#Adult"
+msgstr ""
+
+#: solidres/admin/roomtypes/list.php:131
+msgid "#Child(ren)"
+msgstr ""
+
+#: solidres/admin/roomtypes/edit.php:117
+msgid "Update roomtype failed"
+msgstr ""
+
+#: solidres/admin/roomtypes/edit.php:128
+msgid "Edit room type"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/publishing.php:26
+msgid "Set a room type as Featured"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/publishing.php:26
+#: solidres/templates/single-asset/default-roomtype.php:195
+msgid "Featured"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/publishing.php:29
+msgid "Off"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/publishing.php:30
+msgid "On"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/publishing.php:35
+#: solidres/admin/assets/layouts/publishing.php:79
+msgid "The user who created this"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/publishing.php:35
+#: solidres/admin/assets/layouts/publishing.php:79
+msgid "Created by"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/publishing.php:38
+msgid "Selected creted by"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/publishing.php:44
+#: solidres/admin/assets/layouts/publishing.php:88
+msgid "Created Date"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/publishing.php:48
+#: solidres/admin/assets/layouts/publishing.php:92
+msgid "Modified Date"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/publishing.php:52
+msgid "Select the ordering"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/publishing.php:52
+msgid "Ordering"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/publishing.php:56
+#: solidres/admin/assets/layouts/publishing.php:75
+msgid "Id desc"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/publishing.php:56
+#: solidres/admin/assets/layouts/publishing.php:75
+msgid "Id"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/publishing.php:60
+msgid "Specify wheter to show smoking option in front end for this room type."
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/publishing.php:60
+msgid "Show smoking option"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/publishing.php:69
+msgid "Specify whether to show child option in front end for this room type."
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/publishing.php:69
+msgid "Show child option"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/general_infomation.php:32
+msgid ""
+"The name of your room type. For example: \"Double Room\" or \"Queen Room\""
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/general_infomation.php:36
+#: solidres/admin/assets/layouts/general_infomation.php:26
+msgid "Alias is used in Search Engine Friendly URL."
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/general_infomation.php:40
+msgid "Select the reservation asset that this room type belongs to."
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/general_infomation.php:43
+#: solidres/admin/coupons/layouts/general_infomation.php:38
+msgid "Select Asset"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/general_infomation.php:49
+msgid "Set the occupancy of your room type. (number of adults and children)"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/general_infomation.php:56
+msgid "Child(ren)"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/general_infomation.php:60
+msgid ""
+"The standard tariff of your room type, it is set for each day of week. For "
+"more flexible tariff like per person per night tariff, use Complex Tariff "
+"plugin"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/general_infomation.php:60
+msgid "Standard tariff ("
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/general_infomation.php:65
+msgid "Enter the Standard tariff title which will be shown in front end."
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/general_infomation.php:65
+msgid "Standard tariff title"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/general_infomation.php:69
+msgid "Enter Standard tariff description which will be shown in the front end."
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/general_infomation.php:69
+msgid "Standard tariff description"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/general_infomation.php:73
+msgid "Select coupons that apply to this room type."
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/general_infomation.php:73
+msgid "Coupons"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/general_infomation.php:77
+msgid "Select extras that apply to this room type."
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/general_infomation.php:77
+#: solidres/admin/assets/layouts/extra.php:17
+msgid "Extra"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/general_infomation.php:81
+msgid "The state of room type"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/room.php:21
+msgid "Add Room"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/room.php:22
+msgid "Enter room label"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/custom_fields.php:23
+#: solidres/admin/assets/layouts/custom_fields.php:59
+msgid "Custom fields"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/custom_fields.php:26
+#: solidres/admin/assets/layouts/custom_fields.php:62
+msgid "Add New Group"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/custom_fields.php:27
+#: solidres/admin/assets/layouts/custom_fields.php:63
+msgid "Enter group name"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/facility.php:17
+#: solidres/admin/assets/layouts/facility.php:17
+msgid "Facilities"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/facility.php:20
+#: solidres/admin/assets/layouts/facility.php:20
+msgid "This tab is where you can select/deselect facilities."
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/media.php:17
+#: solidres/admin/assets/layouts/media.php:17
+msgid "Media"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/complex_tariff.php:17
+msgid "Complex tariff"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/complex_tariff.php:20
+msgid ""
+"This feature allows you to configure more flexible tariff, more info can be "
+"found <a href=\"http://www.solidres.com/features-highlights#feature-"
+"complextariff\" target=\"_blank\">here.</a>"
+msgstr ""
+
+#: solidres/admin/roomtypes/layouts/complex_tariff.php:21
+msgid ""
+"<strong>Notice:</strong> Complex Tariff and User are not installed or "
+"enabled. <a target=\"blank\" href=\"https://www.solidres.com/subscribe/levels"
+"\">Become a subscriber and download it now.</a>"
+msgstr ""
+
+#: solidres/admin/assets/add.php:25
+#: solidres/admin/assets/edit.php:30
+msgid "Asset slug already exists."
+msgstr ""
+
+#: solidres/admin/assets/add.php:109
+msgid "Add new asset failed"
+msgstr ""
+
+#: solidres/admin/assets/add.php:118
+msgid "Add new asset"
+msgstr ""
+
+#: solidres/admin/assets/list.php:91
+msgid "asset"
+msgstr ""
+
+#: solidres/admin/assets/list.php:92
+msgid "assets"
+msgstr ""
+
+#: solidres/admin/assets/list.php:98
+msgid "No asset found."
+msgstr ""
+
+#: solidres/admin/assets/list.php:135
+#: solidres/admin/assets/layouts/general_infomation.php:30
+msgid "Category"
+msgstr ""
+
+#: solidres/admin/assets/list.php:136
+msgid "# of Room type"
+msgstr ""
+
+#: solidres/admin/assets/list.php:138
+msgid "Hits"
+msgstr ""
+
+#: solidres/admin/assets/list.php:155
+msgid "Filter by categories"
+msgstr ""
+
+#: solidres/admin/assets/edit.php:127
+msgid "Update asset failed"
+msgstr ""
+
+#: solidres/admin/assets/edit.php:135
+msgid "Asset published."
+msgstr ""
+
+#: solidres/admin/assets/edit.php:136
+msgid "Asset updated."
+msgstr ""
+
+#: solidres/admin/assets/edit.php:137
+msgid "Edit asset"
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:36
+msgid ""
+"The front-end only checks room availability against the default reservation "
+"asset."
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:36
+#: solidres/admin/assets/layouts/payments.php:57
+#: solidres/admin/assets/layouts/payments.php:85
+msgid "Default"
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:45
+msgid "Select a rating for your asset"
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:45
+msgid "Rating"
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:53
+msgid ""
+"If select YES, deposit amount will be calculated and the guest will be "
+"charged."
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:53
+msgid "Deposit required"
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:62
+msgid ""
+"The deposit amount is a flat number or percentage of total booking cost."
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:62
+msgid "Deposit is percentage"
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:71
+msgid ""
+"The amount that will be applied to guest. It could be a flat number or "
+"percentage."
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:82
+msgid "Selected user"
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:96
+msgid "Select an article that contains your Terms and Condition"
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:96
+msgid "Terms of Use"
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:107
+msgid "Select an article that contains your Privacy Policy"
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:118
+msgid "Select an article that contains your Disclaimer"
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:118
+msgid "Disclaimer"
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:129
+msgid ""
+"If enabled, show only reservation form in the front end, other reservation "
+"asset's info (like name, address, description, gallery) will be hidden."
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:129
+msgid "Show only reservation form"
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:138
+msgid "Select whether to enable coupon for this asset."
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:138
+msgid "Enable coupon"
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:147
+msgid ""
+"Enter the logo file name into this field. This logo will be used in front "
+"end display and email templates. Before enter the logo file name here, it "
+"must be uploaded it first using Media Manager."
+msgstr ""
+
+#: solidres/admin/assets/layouts/publishing.php:147
+msgid "Logo"
+msgstr ""
+
+#: solidres/admin/assets/layouts/roomtype.php:17
+msgid "Room type"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:22
+msgid "For example: Sunny Hotel"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:26
+msgid "Alias"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:30
+msgid "Specify the type of your asset."
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:33
+msgid "Select asset category"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:39
+msgid ""
+"Note: this field is enabled for subscribers only. Specify the customer who "
+"manages this reservation asset in front end. This field support auto "
+"complete, just type either email address or user name or customer code to "
+"find."
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:39
+msgid "Partner"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:43
+msgid "The first address"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:47
+msgid "The second address (optional)"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:51
+msgid "The city name of your reservation asset"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:55
+msgid "The post code of your reservation asset's city"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:55
+msgid "Post code"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:59
+msgid ""
+"This email will be used in From field of automated emails, for example: "
+"emails send to customer when they complete their reservations"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:63
+msgid "Your reservation asset's website"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:63
+msgid "Website"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:67
+msgid "Phone description"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:71
+msgid "Fax description"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:71
+msgid "Fax"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:83
+msgid "Your reservation asset's state (optional)"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:91
+msgid "Select the currency for this reservation asset"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:91
+#: solidres/admin/options/option.php:116
+#: solidres/admin/options/option.php:290
+msgid "Currency"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:94
+msgid "Select asset currency"
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:100
+msgid ""
+"Select the tax that will apply to this asset. The tax list is depend on the "
+"selected country above. Please select a country first and the tax list will "
+"be displayed accordingly."
+msgstr ""
+
+#: solidres/admin/assets/layouts/general_infomation.php:108
+msgid "Describe your reservation asset"
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:21
+msgid "Metadata"
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:26
+msgid ""
+"An optional paragraph to be used as the description of the page in the HTML "
+"output. This will generally display in the results of search engines."
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:26
+msgid "Meta Description"
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:30
+msgid ""
+"An optional comma-separated list of keywords and/or phrases to be used in "
+"the HTML output."
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:30
+msgid "Meta Keywords"
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:34
+msgid ""
+"An optional field to allow this record to be cross-referenced to an external "
+"data system if required."
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:34
+msgid "External Reference"
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:38
+msgid "Robots Instructions"
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:38
+msgid "Robots"
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:41
+msgid "Use Global"
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:42
+msgid "Index, Follow"
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:43
+msgid "No index, follow"
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:44
+msgid "Index, No follow"
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:45
+msgid "No index, no follow"
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:46
+msgid "JGLOBAL_NO_ROBOTS_TAG"
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:51
+msgid "The author of this content"
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:51
+msgid "Author"
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:55
+msgid "Describe what rights others have to use this content."
+msgstr ""
+
+#: solidres/admin/assets/layouts/metadata.php:55
+msgid "Content Rights"
+msgstr ""
+
+#: solidres/admin/assets/layouts/theme.php:17
+msgid "Theme"
+msgstr ""
+
+#: solidres/admin/assets/layouts/payments.php:33
+msgid "Payments"
+msgstr ""
+
+#: solidres/admin/assets/layouts/payments.php:48
+msgid ""
+"Enable Pay Later payment method. If your client choose this payment method, "
+"the reservation's status will be changed to 'Pending'. You will need to "
+"manually confirm the reservation when the client go to your hotel"
+msgstr ""
+
+#: solidres/admin/assets/layouts/payments.php:48
+msgid "Enable Pay Later"
+msgstr ""
+
+#: solidres/admin/assets/layouts/payments.php:57
+#: solidres/admin/assets/layouts/payments.php:85
+msgid "Specify whether this payment method is the default one (pre-selected)."
+msgstr ""
+
+#: solidres/admin/assets/layouts/payments.php:66
+#: solidres/admin/assets/layouts/payments.php:102
+msgid ""
+"Enter the message that will be show in the front end, this field can be used "
+"to explain this payment method to your clients"
+msgstr ""
+
+#: solidres/admin/assets/layouts/payments.php:66
+#: solidres/admin/assets/layouts/payments.php:102
+msgid "Front-end message"
+msgstr ""
+
+#: solidres/admin/assets/layouts/payments.php:76
+msgid ""
+"Enable Bank Wire payment method. If your client choose this payment method, "
+"the reservation's status will be changed to 'Pending'. You will need to "
+"manually confirmed the reservation upon receiving the bank wire"
+msgstr ""
+
+#: solidres/admin/assets/layouts/payments.php:76
+msgid "Enable Bank Wire"
+msgstr ""
+
+#: solidres/admin/assets/layouts/payments.php:94
+msgid ""
+"Enter your bank account name to be used with the Bank Wire payment method"
+msgstr ""
+
+#: solidres/admin/assets/layouts/payments.php:94
+msgid "Account name"
+msgstr ""
+
+#: solidres/admin/assets/layouts/payments.php:98
+msgid ""
+"Enter your bank account details like Bank name, Bank branch, Bank address, "
+"Bank account number, CIF, Code etc. Please contact your bank if you do not "
+"know these information."
+msgstr ""
+
+#: solidres/admin/assets/layouts/payments.php:98
+msgid "Account details"
+msgstr ""
+
+#: solidres/admin/customers/customers.php:30
+msgid ""
+"<strong>Notice:</strong> Please active <strong>Solidres Users Plugin</"
+"strong>. <a target=\"blank\" href=\""
+msgstr ""
+
+#: solidres/admin/coupons/add.php:21
+#: solidres/admin/coupons/edit.php:26
+msgid "Your coupon code is duplicated, please enter another coupon code"
+msgstr ""
+
+#: solidres/admin/coupons/add.php:48
+msgid "Add coupon failed"
+msgstr ""
+
+#: solidres/admin/coupons/add.php:57
+msgid "Add new Coupon"
+msgstr ""
+
+#: solidres/admin/coupons/list.php:40
+msgid "1 coupon permanently deleted."
+msgstr ""
+
+#: solidres/admin/coupons/list.php:43
+msgid " coupons permanently deleted."
+msgstr ""
+
+#: solidres/admin/coupons/list.php:81
+msgid "Unlimited"
+msgstr ""
+
+#: solidres/admin/coupons/list.php:86
+msgid "coupon"
+msgstr ""
+
+#: solidres/admin/coupons/list.php:87
+msgid "coupons"
+msgstr ""
+
+#: solidres/admin/coupons/list.php:93
+msgid "No coupon found!"
+msgstr ""
+
+#: solidres/admin/coupons/list.php:134
+#: solidres/admin/coupons/layouts/general_infomation.php:23
+msgid "Coupon name"
+msgstr ""
+
+#: solidres/admin/coupons/list.php:138
+msgid "Amount"
+msgstr ""
+
+#: solidres/admin/coupons/list.php:139
+msgid "Percent"
+msgstr ""
+
+#: solidres/admin/coupons/list.php:141
+#: solidres/admin/coupons/layouts/general_infomation.php:53
+msgid "Valid from"
+msgstr ""
+
+#: solidres/admin/coupons/list.php:142
+#: solidres/admin/coupons/layouts/general_infomation.php:57
+msgid "Valid to"
+msgstr ""
+
+#: solidres/admin/coupons/edit.php:54
+msgid "Update coupon failed"
+msgstr ""
+
+#: solidres/admin/coupons/edit.php:63
+msgid "Coupon published."
+msgstr ""
+
+#: solidres/admin/coupons/edit.php:64
+msgid "Coupon updated."
+msgstr ""
+
+#: solidres/admin/coupons/edit.php:65
+msgid "Edit coupon"
+msgstr ""
+
+#: solidres/admin/coupons/layouts/general_infomation.php:23
+msgid "Enter the name of your coupon"
+msgstr ""
+
+#: solidres/admin/coupons/layouts/general_infomation.php:27
+msgid "Enter the coupon code, for example: NEWYEAR"
+msgstr ""
+
+#: solidres/admin/coupons/layouts/general_infomation.php:31
+msgid ""
+"Enter the value of your coupon. Value can be a fixed number or percentage. "
+"Note: the coupon value's currency depends on the reservation asset's currency"
+msgstr ""
+
+#: solidres/admin/coupons/layouts/general_infomation.php:31
+msgid "Coupon value"
+msgstr ""
+
+#: solidres/admin/coupons/layouts/general_infomation.php:35
+msgid "The reservation asset which this coupon belongs to."
+msgstr ""
+
+#: solidres/admin/coupons/layouts/general_infomation.php:44
+msgid "Is this coupon percentage based?"
+msgstr ""
+
+#: solidres/admin/coupons/layouts/general_infomation.php:44
+msgid "Coupon percent"
+msgstr ""
+
+#: solidres/admin/coupons/layouts/general_infomation.php:53
+msgid "The date coupon is valid to use from"
+msgstr ""
+
+#: solidres/admin/coupons/layouts/general_infomation.php:57
+msgid "The date coupon is valid to use to"
+msgstr ""
+
+#: solidres/admin/coupons/layouts/general_infomation.php:61
+#: solidres/admin/coupons/layouts/general_infomation.php:65
+msgid ""
+"Coupon is only valid to be used if the reservation's checkin date is within "
+"the Valid from checkin/Valid to checkin period"
+msgstr ""
+
+#: solidres/admin/coupons/layouts/general_infomation.php:61
+msgid "Valid from checkin"
+msgstr ""
+
+#: solidres/admin/coupons/layouts/general_infomation.php:65
+msgid "Valid to checkin"
+msgstr ""
+
+#: solidres/admin/coupons/layouts/general_infomation.php:69
+msgid ""
+"Select a group for your customer. Note: this group is different with "
+"Joomla's user groups. By default, all customers created belong to Joomla's "
+"group Registered."
+msgstr ""
+
+#: solidres/admin/coupons/layouts/general_infomation.php:69
+msgid "User group"
+msgstr ""
+
+#: solidres/admin/coupons/layouts/general_infomation.php:73
+msgid "Select user group"
+msgstr ""
+
+#: solidres/admin/coupons/layouts/general_infomation.php:79
+msgid ""
+"Enter the available quantity of this coupon, leave this field empty means "
+"unlimited."
+msgstr ""
+
+#: solidres/admin/coupons/layouts/general_infomation.php:83
+msgid ""
+"Please select a state of this coupon. Only published coupon can be used."
+msgstr ""
+
+#: solidres/admin/taxes/add.php:38
+msgid "add new tax failed"
+msgstr ""
+
+#: solidres/admin/taxes/add.php:44
+msgid "Add new tax"
+msgstr ""
+
+#: solidres/admin/taxes/list.php:80
+msgid "tax"
+msgstr ""
+
+#: solidres/admin/taxes/list.php:81
+msgid "taxes"
+msgstr ""
+
+#: solidres/admin/taxes/list.php:87
+msgid "No tax found!"
+msgstr ""
+
+#: solidres/admin/taxes/list.php:117
+msgid "Rate"
+msgstr ""
+
+#: solidres/admin/taxes/edit.php:48
+msgid "Update tax failed"
+msgstr ""
+
+#: solidres/admin/taxes/edit.php:55
+msgid "Tax published."
+msgstr ""
+
+#: solidres/admin/taxes/edit.php:56
+msgid "Tax updated."
+msgstr ""
+
+#: solidres/admin/taxes/edit.php:57
+msgid "Edit tax"
+msgstr ""
+
+#: solidres/admin/taxes/layouts/general_infomation.php:20
+msgid "Enter the name of your tax, for example: VAT"
+msgstr ""
+
+#: solidres/admin/taxes/layouts/general_infomation.php:20
+msgid "Tax name"
+msgstr ""
+
+#: solidres/admin/taxes/layouts/general_infomation.php:24
+msgid "Enter the rate of your tax, eg if your tax rate is 10% then enter 0.1"
+msgstr ""
+
+#: solidres/admin/taxes/layouts/general_infomation.php:24
+msgid "Tax rate"
+msgstr ""
+
+#: solidres/admin/taxes/layouts/general_infomation.php:28
+msgid "The country which this tax rate will be applied to"
+msgstr ""
+
+#: solidres/admin/taxes/layouts/general_infomation.php:36
+msgid "State/County of the country in the field above"
+msgstr ""
+
+#: solidres/admin/taxes/layouts/general_infomation.php:44
+msgid "Disable or enable this tax"
+msgstr ""
+
+#: solidres/admin/options/option.php:35
+msgid "simple_gallery"
+msgstr ""
+
+#: solidres/admin/options/option.php:51
+msgid "X0,000.00"
+msgstr ""
+
+#: solidres/admin/options/option.php:55
+msgid "0 000,00X"
+msgstr ""
+
+#: solidres/admin/options/option.php:59
+msgid "X0.000,00"
+msgstr ""
+
+#: solidres/admin/options/option.php:63
+msgid "0,000.00X"
+msgstr ""
+
+#: solidres/admin/options/option.php:67
+msgid "0 000.00X"
+msgstr ""
+
+#: solidres/admin/options/option.php:71
+msgid "X 0,000.00"
+msgstr ""
+
+#: solidres/admin/options/option.php:75
+msgid "0 000,00 X"
+msgstr ""
+
+#: solidres/admin/options/option.php:79
+msgid "X 0.000,00"
+msgstr ""
+
+#: solidres/admin/options/option.php:83
+msgid "0,000.00 X"
+msgstr ""
+
+#: solidres/admin/options/option.php:87
+msgid "0 000.00 X"
+msgstr ""
+
+#: solidres/admin/options/option.php:103
+msgid " Solidres Options"
+msgstr ""
+
+#: solidres/admin/options/option.php:105
+msgid "Options saved"
+msgstr ""
+
+#: solidres/admin/options/option.php:114
+msgid "Plugins"
+msgstr ""
+
+#: solidres/admin/options/option.php:120
+msgid "Pages"
+msgstr ""
+
+#: solidres/admin/options/option.php:122
+msgid "Tools"
+msgstr ""
+
+#: solidres/admin/options/option.php:132
+msgid ""
+"Select the default gallery to be used in Solidres, this list represents all "
+"Solidres Gallery plugins installed."
+msgstr ""
+
+#: solidres/admin/options/option.php:132
+msgid "Default gallery"
+msgstr ""
+
+#: solidres/admin/options/option.php:152
+msgid ""
+"Enable the availability calendar in the front end to quickly show the "
+"availability of a room type"
+msgstr ""
+
+#: solidres/admin/options/option.php:152
+msgid "Enable availability calendar"
+msgstr ""
+
+#: solidres/admin/options/option.php:172
+msgid ""
+"The number of months to show in availability calendar. Default is showing 12 "
+"months starting from the current month"
+msgstr ""
+
+#: solidres/admin/options/option.php:172
+msgid "Months in availability calendar"
+msgstr ""
+
+#: solidres/admin/options/option.php:180
+msgid "Enter the number of months to be shown in front end date picker"
+msgstr ""
+
+#: solidres/admin/options/option.php:180
+msgid "Months in date picker"
+msgstr ""
+
+#: solidres/admin/options/option.php:188
+msgid ""
+"Specify the minimum number of day a booking must be made in advance of "
+"arrival. For example if you need your customer to book at least 7 days "
+"before their arrival date, enter 7 into this field. Default value is 0"
+msgstr ""
+
+#: solidres/admin/options/option.php:188
+msgid "Min days book in advance"
+msgstr ""
+
+#: solidres/admin/options/option.php:196
+msgid ""
+"Specify the maximum number of day a booking can be made in advance of "
+"arrival. For example if you do not allow your customers to book more than 90 "
+"days in advance, enter 90 into this field. Default value is 0 which means no "
+"limitation."
+msgstr ""
+
+#: solidres/admin/options/option.php:196
+msgid "Max days book in advance"
+msgstr ""
+
+#: solidres/admin/options/option.php:204
+msgid ""
+"Specify the minimum number of night a customer can book. Default value is 1 "
+"night"
+msgstr ""
+
+#: solidres/admin/options/option.php:204
+msgid "Minimum length of stay"
+msgstr ""
+
+#: solidres/admin/options/option.php:212
+msgid "The maximum age for a guest to be considered as child. Default is 17"
+msgstr ""
+
+#: solidres/admin/options/option.php:212
+msgid "Child max age"
+msgstr ""
+
+#: solidres/admin/options/option.php:220
+msgid ""
+"This option when enabled will display a link \"Powered by Solidres\" in the "
+"front end of Solidres component. Showing this is optional but you can help "
+"wide spread Solidres with this option enabled"
+msgstr ""
+
+#: solidres/admin/options/option.php:220
+msgid "Show Powered by Solidres"
+msgstr ""
+
+#: solidres/admin/options/option.php:240
+msgid ""
+"If you want to show room price with tax when your guests check for room "
+"availability, select Yes for this option."
+msgstr ""
+
+#: solidres/admin/options/option.php:240
+msgid "Show price with tax"
+msgstr ""
+
+#: solidres/admin/options/option.php:260
+msgid "Number rows per pages listview"
+msgstr ""
+
+#: solidres/admin/options/option.php:260
+msgid "Number rows per pages"
+msgstr ""
+
+#: solidres/admin/options/option.php:266
+msgid "Solidres small thumbnail size"
+msgstr ""
+
+#: solidres/admin/options/option.php:266
+msgid "Small thumbnail size"
+msgstr ""
+
+#: solidres/admin/options/option.php:274
+msgid "Solidres medium thumbnail size"
+msgstr ""
+
+#: solidres/admin/options/option.php:274
+msgid "Medium thumbnail size"
+msgstr ""
+
+#: solidres/admin/options/option.php:310
+msgid "Select the default currency format pattern"
+msgstr ""
+
+#: solidres/admin/options/option.php:310
+msgid "Currency format pattern"
+msgstr ""
+
+#: solidres/admin/options/option.php:330
+msgid "Specify the number of decimal points"
+msgstr ""
+
+#: solidres/admin/options/option.php:330
+msgid "Number of decimal points"
+msgstr ""
+
+#: solidres/admin/options/option.php:336
+msgid "Specify whether to show code or symbol of currency in front end."
+msgstr ""
+
+#: solidres/admin/options/option.php:336
+msgid "Show code or symbol"
+msgstr ""
+
+#: solidres/admin/options/option.php:364
+msgid "Turn on/off PDF attachment. Default is on."
+msgstr ""
+
+#: solidres/admin/options/option.php:364
+msgid "PDF attachment"
+msgstr ""
+
+#: solidres/admin/options/option.php:384
+msgid ""
+"Custom Invoice number prefix with tags : [dd] show day of month, [mm] show "
+"month of year [yy] show year. You can also use "
+msgstr ""
+
+#: solidres/admin/options/option.php:384
+msgid "Invoice number prefix format"
+msgstr ""
+
+#: solidres/admin/options/option.php:390
+msgid "Set your number prefix override"
+msgstr ""
+
+#: solidres/admin/options/option.php:390
+msgid "Invoice number prefix override"
+msgstr ""
+
+#: solidres/admin/options/option.php:396
+msgid ""
+"Enter number of digit of number part in your invoice number.Default is 00."
+msgstr ""
+
+#: solidres/admin/options/option.php:396
+msgid "Invoice number digit."
+msgstr ""
+
+#: solidres/admin/options/option.php:402
+msgid "Define the invoice number starting point. Default is 1"
+msgstr ""
+
+#: solidres/admin/options/option.php:402
+msgid "Invoice number start"
+msgstr ""
+
+#: solidres/admin/options/option.php:408
+msgid "Set your override number"
+msgstr ""
+
+#: solidres/admin/options/option.php:408
+msgid "Invoice number override"
+msgstr ""
+
+#: solidres/admin/options/option.php:414
+msgid "Invoice logo image path"
+msgstr ""
+
+#: solidres/admin/options/option.php:414
+msgid "Logo image"
+msgstr ""
+
+#: solidres/admin/options/option.php:419
+msgid "PDF"
+msgstr ""
+
+#: solidres/admin/options/option.php:421
+msgid "Set your invoice pdf title. Default is invoice"
+msgstr ""
+
+#: solidres/admin/options/option.php:421
+msgid "PDF title"
+msgstr ""
+
+#: solidres/admin/options/option.php:427
+msgid "Set your invoice pdf subject. Default is invoice."
+msgstr ""
+
+#: solidres/admin/options/option.php:427
+msgid "PDF subject"
+msgstr ""
+
+#: solidres/admin/options/option.php:433
+msgid "Set your invoice pdf page format. Default is A4"
+msgstr ""
+
+#: solidres/admin/options/option.php:433
+msgid "Page format"
+msgstr ""
+
+#: solidres/admin/options/option.php:439
+msgid "Set your invoice pdf page orientation. Default is P"
+msgstr ""
+
+#: solidres/admin/options/option.php:439
+msgid "Page orientation"
+msgstr ""
+
+#: solidres/admin/options/option.php:445
+msgid "Set your PDF creator. Default is hotel."
+msgstr ""
+
+#: solidres/admin/options/option.php:445
+msgid "PDF creator"
+msgstr ""
+
+#: solidres/admin/options/option.php:451
+msgid "Set your PDF author. Default is hotel"
+msgstr ""
+
+#: solidres/admin/options/option.php:451
+msgid "PDF author"
+msgstr ""
+
+#: solidres/admin/options/option.php:457
+msgid "Set your PDF unit. Default is mm"
+msgstr ""
+
+#: solidres/admin/options/option.php:457
+msgid "PDF unit"
+msgstr ""
+
+#: solidres/admin/options/option.php:463
+msgid "Set your margin header. Default is 5."
+msgstr ""
+
+#: solidres/admin/options/option.php:463
+msgid "Margin header"
+msgstr ""
+
+#: solidres/admin/options/option.php:469
+msgid "Set your margin footer. Default is 10."
+msgstr ""
+
+#: solidres/admin/options/option.php:469
+msgid "Margin footer"
+msgstr ""
+
+#: solidres/admin/options/option.php:475
+msgid "Set your margin top. Default is 27."
+msgstr ""
+
+#: solidres/admin/options/option.php:475
+msgid "Margin top"
+msgstr ""
+
+#: solidres/admin/options/option.php:481
+msgid "Set your margin bottom. Default is 25."
+msgstr ""
+
+#: solidres/admin/options/option.php:481
+msgid "Margin bottom"
+msgstr ""
+
+#: solidres/admin/options/option.php:487
+msgid "Set your margin left. Default is 15."
+msgstr ""
+
+#: solidres/admin/options/option.php:487
+msgid "Margin left"
+msgstr ""
+
+#: solidres/admin/options/option.php:493
+msgid "Set your margin right. Default is 15."
+msgstr ""
+
+#: solidres/admin/options/option.php:493
+msgid "Margin right"
+msgstr ""
+
+#: solidres/admin/options/option.php:499
+msgid "Set your font name main. Default is courier"
+msgstr ""
+
+#: solidres/admin/options/option.php:499
+msgid "Font name main"
+msgstr ""
+
+#: solidres/admin/options/option.php:505
+msgid "Set your font size main. Default is 8."
+msgstr ""
+
+#: solidres/admin/options/option.php:505
+msgid "Font size main"
+msgstr ""
+
+#: solidres/admin/options/option.php:511
+msgid "Set your font name footer. Default is false"
+msgstr ""
+
+#: solidres/admin/options/option.php:511
+msgid "Font name footer"
+msgstr ""
+
+#: solidres/admin/options/option.php:517
+msgid "Set your font size footer. Default is false"
+msgstr ""
+
+#: solidres/admin/options/option.php:517
+msgid "Font size footer"
+msgstr ""
+
+#: solidres/admin/options/option.php:523
+msgid "Set your font monospaced. Default is courier"
+msgstr ""
+
+#: solidres/admin/options/option.php:523
+msgid "Font monospaced"
+msgstr ""
+
+#: solidres/admin/options/option.php:529
+msgid "Set your image scale ratio. Default is 1.25"
+msgstr ""
+
+#: solidres/admin/options/option.php:529
+msgid "Image scale ratio"
+msgstr ""
+
+#: solidres/admin/options/option.php:543
+msgid "Solidres single asset page view in frontend"
+msgstr ""
+
+#: solidres/admin/options/option.php:543
+msgid "Single asset"
+msgstr ""
+
+#: solidres/admin/options/option.php:549
+#: solidres/admin/options/option.php:560
+msgid "- None -"
+msgstr ""
+
+#: solidres/admin/options/option.php:555
+msgid "Reservation completed"
+msgstr ""
+
+#: solidres/admin/options/option.php:574
+msgid ""
+"It will disable template overrides for logged-in administrators for "
+"debugging purpose"
+msgstr ""
+
+#: solidres/admin/options/option.php:574
+msgid "Enable template debug"
+msgstr ""
+
+#: solidres/admin/options/option.php:577
+msgid "Disable"
+msgstr ""
+
+#: solidres/admin/options/option.php:578
+msgid "Enable"
+msgstr ""
+
+#: solidres/admin/options/install-sample-data.php:18
+msgid "Warning"
+msgstr ""
+
+#: solidres/admin/options/install-sample-data.php:19
+msgid ""
+"You are about to install Solidres's sample data into your website. Sample "
+"data is the easiest way for you to get started and learn how to use "
+"Solidres. Before proceed please read the following notices:"
+msgstr ""
+
+#: solidres/admin/options/install-sample-data.php:21
+msgid "Always make a backup of your website first."
+msgstr ""
+
+#: solidres/admin/options/install-sample-data.php:22
+msgid ""
+"Please make sure that you only install sample data right after the initial "
+"installation Solidres (when Solidres has no data)."
+msgstr ""
+
+#: solidres/admin/options/install-sample-data.php:23
+msgid ""
+"Do not install sample data twice because it will create duplicated entries "
+"in your databases."
+msgstr ""
+
+#: solidres/admin/options/install-sample-data.php:32
+msgid "Simple data installed before."
+msgstr ""
+
+#: solidres/admin/options/install-sample-data.php:41
+msgid "Simple data installed success."
+msgstr ""
+
+#: solidres/templates/final.php:29
+#, php-format
+msgid ""
+"Your reservation number %s has been completed. A confirmation email has been "
+"sent to %s"
+msgstr ""
+
+#: solidres/templates/single-asset/default-header.php:44
+msgid "Show map"
+msgstr ""
+
+#: solidres/templates/single-asset/default-header.php:56
+msgid "Fax: "
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:32
+msgid "Can not remove coupon"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:33
+msgid "Please select at least one room type to proceed."
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:34
+msgid "Ages must be between"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:36
+msgid "Tariff break down"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:37
+msgid "Sun"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:38
+msgid "Mon"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:39
+msgid "Tue"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:40
+msgid "Wed"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:41
+msgid "Thu"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:42
+msgid "Fri"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:43
+msgid "Sat"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:46
+msgid "Processing..."
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:48
+msgid "years old"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:49
+msgid "year old"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:50
+msgid "Last chance! Only 1 room left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:51
+msgid "Only 2 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:52
+msgid "Only 3 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:53
+msgid "Only 4 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:54
+msgid "Only 5 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:55
+msgid "Only 6 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:56
+msgid "Only 7 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:57
+msgid "Only 8 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:58
+msgid "Only 9 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:59
+msgid "Only 10 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:60
+msgid "Only 11 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:61
+msgid "Only 12 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:62
+msgid "Only 13 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:63
+msgid "Only 14 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:64
+msgid "Only 15 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:65
+msgid "Only 16 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:66
+msgid "Only 17 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:67
+msgid "Only 18 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:68
+msgid "Only 19 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:69
+msgid "Only 20 rooms left"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:70
+#: solidres/templates/single-asset/default-roomtype.php:249
+msgid "More info"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:71
+msgid "Hide info"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:72
+msgid "Close calendar"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:73
+#: solidres/templates/single-asset/default-roomtype.php:256
+msgid "View calendar"
+msgstr ""
+
+#: solidres/templates/single-asset/default.php:74
+msgid "Username exists. Please choose another one."
+msgstr ""
+
+#: solidres/templates/single-asset/default-roomtype.php:90
+msgid "Enter coupon code (Optional)"
+msgstr ""
+
+#: solidres/templates/single-asset/default-roomtype.php:92
+msgid "Applied coupon"
+msgstr ""
+
+#: solidres/templates/single-asset/default-roomtype.php:98
+msgid "Remove"
+msgstr ""
+
+#: solidres/templates/single-asset/default-roomtype.php:111
+msgid "Room &amp; Rates"
+msgstr ""
+
+#: solidres/templates/single-asset/default-roomtype.php:114
+msgid "Guest info &amp; Payment"
+msgstr ""
+
+#: solidres/templates/single-asset/default-roomtype.php:116
+msgid "Confirmation"
+msgstr ""
+
+#: solidres/templates/single-asset/default-roomtype.php:138
+msgid "Select your room type, review the prices and click Next to continue"
+msgstr ""
+
+#: solidres/templates/single-asset/default-roomtype.php:330
+msgid "SR_NO_ROOM_AVAILABLE"
+msgstr ""
+
+#: solidres/templates/single-asset/default-roomtype.php:341
+msgid "SR_ROOMTYPE_QUANTITY"
+msgstr ""
+
+#: solidres/templates/single-asset/default-roomtype.php:397
+msgid "index.php?option=com_solidres&view=reservationasset&id="
+msgstr ""
+
+#: solidres/templates/single-asset/default-roomtype.php:422
+msgid "Standard rate"
+msgstr ""
+
+#: solidres/templates/single-asset/default-roomtype.php:439
+msgid "Select"
+msgstr ""
+
+#: solidres/templates/single-asset/default-roomtype.php:443
+msgid "Sold out!"
+msgstr ""
+
+#: solidres/templates/single-asset/default-roomtype.php:529
+msgid "SR_NO_ROOM_TYPES_MATCHED_SEARCH_CONDITIONS"
+msgstr ""
+
+#: solidres/templates/single-asset/default-searchinfo.php:26
+#, php-format
+msgid "Available rooms from %s to %s"
+msgstr ""
+
+#: solidres/templates/single-asset/default-searchinfo.php:30
+msgid "Reset"
+msgstr ""
